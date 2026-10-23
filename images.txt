@@ -17,6 +17,3 @@ nacos/nacos-server:latest
 # ========== 开发语言运行时 ==========
 python:3.12-slim
 node:20-alpine
-openjdk:17-jdk-slim
-golang:1.23-alpine
-php:8.3-fpm-alpine
