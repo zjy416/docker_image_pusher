@@ -11,7 +11,7 @@ mysql:8.0
 postgres:16-alpine
 mongo:7.0
 elasticsearch:8.17.0
-kibana:latest
+kibana:8.17.0
 rabbitmq:latest
 nacos/nacos-server:latest
 minio/minio:latest
