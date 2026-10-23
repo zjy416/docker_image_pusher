@@ -14,7 +14,6 @@ elasticsearch:8.17.0
 kibana:8.17.0
 rabbitmq:latest
 nacos/nacos-server:latest
-minio/minio:latest
 # ========== 开发语言运行时 ==========
 python:3.12-slim
 node:20-alpine
