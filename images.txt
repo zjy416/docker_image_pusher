@@ -5,7 +5,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 k8s.gcr.io/pause:3.10
 k8s.gcr.io/coredns/coredns:v1.11.1
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
-kube-state-metrics/kube-state-metrics:v2.12.0
 # ========== 中间件&数据库 ==========
 redis:7.4-alpine
 mysql:8.0
