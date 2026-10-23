@@ -10,11 +10,11 @@ redis:7.4-alpine
 mysql:8.0
 postgres:16-alpine
 mongo:7.0
-elasticsearch:8.15
-kibana:8.15
-rabbitmq:3.13-management
-nacos/nacos-server:v2.4.3
-minio/minio:RELEASE.2024-09-13T20-26-52Z
+elasticsearch:latest
+kibana:latest
+rabbitmq:latest
+nacos/nacos-server:latest
+minio/minio:latest
 # ========== 开发语言运行时 ==========
 python:3.12-slim
 node:20-alpine
